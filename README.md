@@ -72,10 +72,6 @@ smoothening = 20</code></pre>
             <li><strong>autopy:</strong> For controlling the mouse.</li>
             <li><strong>HandTrackingModule:</strong> Custom module for hand landmark detection and tracking.</li>
         </ul>
-
-  <h2 id="license">License</h2>
-        <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
     </div>
 </body>
 </html>
-l
